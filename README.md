@@ -2,7 +2,7 @@
 
 ## Covid 19 APP PWA
 
-Projeto desenvolvido durante o Lab de ReactJs com PWA do Bootcamp SPTech Fullstack da Digital Inovation One.
+Projeto desenvolvido durante o Lab de ReactJs com PWA do Bootcamp Carrefour Web Developer da Digital Inovation One.
 
 ### O que faz
 
@@ -24,5 +24,5 @@ consultar dados atualizados da pandemia covid-19 no mundo através da API: https
 
 ### Projeto online
 
-Acesse: https://frosty-williams-8cb9b7.netlify.app/
+Acesse: https://projetocovid19dio.netlify.app/
 
